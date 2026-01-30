@@ -1,6 +1,6 @@
 # 🏛️ PumpDuel: A Market Without Neutrality
 
-> **"Two tokens enter. One survives."**
+> **"Two tokens enter. Everyone gets a boost"**
 
 [![Status](https://img.shields.io/badge/Status-Active-red.svg)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-black.svg)]()
