@@ -1,78 +1,74 @@
-# 🏛️ PumpDuel: A Market Without Neutrality
+<div align="center">
 
-> **"Two tokens enter. Everyone gets a boost"**
+# 🏛️ PUMPDUEL
+### THE GEOMETRY OF CONFLICT
 
-[![Status](https://img.shields.io/badge/Status-Active-red.svg)]()
-[![Version](https://img.shields.io/badge/Version-1.0.0-black.svg)]()
+**"The world is dual-based. It is built on dualism. PumpDuel does not attempt to correct this architecture. It renders it visible."**
 
-## ⚡ Manifesto
+[![Status](https://img.shields.io/badge/Status-Active-red.svg?style=for-the-badge)]()
+[![Theme](https://img.shields.io/badge/Theme-Brutalist-black.svg?style=for-the-badge)]()
+[![Type](https://img.shields.io/badge/Type-Arena-blue.svg?style=for-the-badge)]()
 
-**PumpDuel is not a trading interface.** Most markets ask a private, calculated question: *“Should I buy?”* PumpDuel replaces it with a public, visceral one: **“Which side am I on?”**
-
-In this space, neutrality is a failure of design. We have removed the option to not choose. Every interaction is a public act of allegiance. If you are here, you are already inside the conflict.
+</div>
 
 ---
 
-## 🧩 The Core Philosophy
+## ⚡ MANIFESTO
 
-### 1. Forced Allegiance Effect
-When neutrality is removed, action becomes identity. In PumpDuel, users do not act as traders—they act as participants in a visible struggle.
+**PumpDuel is not a trading interface.** It is a digital colosseum where financial action is reclaimed as a public act of allegiance.
 
-* **Buying** is no longer a financial decision; it is a gesture of support.
-* **The Market** is rendered as an arena, not a chart.
-* **Users** are not optimizing outcomes; they are choosing who they want to see win.
+In this space, neutrality is a fiction. We have deleted the option to "observe" from the code. Most markets frame interaction as a private, calculated question: *“Should I buy?”* PumpDuel replaces it with a public, visceral position: **“Which side am I on?”**
 
-### 2. The Experience Architecture
-We have remapped the vocabulary of the market to reflect the reality of the duel:
+> **Two tokens enter. Both grow—the crowd decides how.**
 
-| Traditional Term | PumpDuel Equivalent |
+---
+
+## 🏟️ THE ARENA (VISUAL ENGINE)
+
+The interface utilizes **Architectural Brutalism** and **Kinetic Typography** to translate raw market data into sensory tension.
+
+* **Dual Vectors:** Tokens are rendered as opposing forces—massive blocks of energy that physically displace each other based on real-time dominance.
+* **Pressure Graphs:** Forget price candles. PumpDuel utilizes "scars" of influence—visceral lines that trace the history of aggression and defense across the background.
+* **Kinetic Response:** Every on-chain event triggers a physical reaction. Typography distorts under pressure; UI elements vibrate during volatility. 
+
+---
+
+## 📐 DESIGN CONSTITUTION (NON-NEGOTIABLE)
+
+| Principle | Execution |
 | :--- | :--- |
-| **Token** | Faction |
-| **Buy** | Strike |
-| **Momentum** | Pressure |
-| **Volatility** | Violence |
-| **Victory** | Spectacle |
+| **Binarity** | Every screen must present exactly two opposing entities. |
+| **Vocabulary** | Lexicon of "profit" is replaced by **Strike, Vector, and Alignment.** |
+| **Reaction** | Visuals must react to every on-chain event in real-time. |
+| **Kineticism** | Stillness is treated as a failure of signal. The arena must breathe. |
 
 ---
 
-## 👁️ Pushkin: The Silent Judge
+## 🧩 LOGIC OF COLLISION
 
-Pushkin is not an assistant. He does not advise, warn, or explain. He is the observer of the arena, narrating the shift of power through motion and tension.
-
-> *“The crowd leans.”* > *“Momentum shifts.”* > *“The line breaks.”*
-
-Pushkin never tells you what to do. He only records what has already been chosen.
+1.  **Forced Allegiance:** When neutrality is removed, action becomes identity. Buying is a gesture of support under pressure.
+2.  **The Nexus:** In the center of the arena lies the point of impact. There is no balance—only the constant shift of who is crushing whom.
+3.  **The Shadow:** PumpDuel does not hide desire—it stages it.
 
 ---
 
-## 🚫 Negative Space (The Constraints)
+## 🚫 NEGATIVE SPACE (WHAT WE ARE NOT)
 
-To maintain the integrity of the conflict, PumpDuel explicitly rejects the "neutral" UI of legacy finance. **Any UI element that allows for a neutral stance breaks the system.**
+To maintain the integrity of the duel, the following "neutral" elements are strictly excluded:
+* No portfolio trackers or performance dashboards.
+* No traditional candlestick charts or "Buy/Sell" terminology.
+* No passive observation modes.
 
-* **No** portfolio trackers or performance dashboards.
-* **No** neutral analytics or traditional candle charts.
-* **No** passive observation modes.
-
----
-
-## 📐 Design Constitution (Non-Negotiable)
-
-* **Binarity:** Every screen must show exactly two opposing entities.
-* **Conflict:** Language must always imply pressure, defense, or attack.
-* **Reaction:** Visuals must react to every on-chain event in real-time.
-* **Kineticism:** Stillness equals failure. The arena must breathe.
-
-*If a user can ask: "Do I want to act at all?" — the design is flawed.*
+**If a user can ask: *"Do I want to act at all?"* — the interface has failed.**
 
 ---
 
-## 🎯 Summary
+<div align="center">
 
-**PumpDuel is a market designed as a duel, where choosing a side replaces deciding whether to act.**
+### // CHOOSE. YOUR. ALLEGIANCE.
+### // THE. ARENA. IS. OPEN.
 
-Markets have always manipulated attention through the illusion of choice. PumpDuel makes this mechanism explicit. This is not deception—it is **exposure**.
+© 2026 PUMPDUEL. 
+*Anonymity by Design.*
 
-**PumpDuel does not hide desire — it stages it.**
-
----
-© 2026 PumpDuel Foundation.
+</div>
