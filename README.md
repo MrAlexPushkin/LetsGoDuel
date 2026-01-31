@@ -1,74 +1,79 @@
 <div align="center">
 
-# 🏛️ PUMPDUEL
-### THE GEOMETRY OF CONFLICT
+# ⚔️ THE PUSHKIN MANIFESTO
+### WHY WE DUEL
 
-**"The world is dual-based. It is built on dualism. PumpDuel does not attempt to correct this architecture. It renders it visible."**
+**"Everything in this world is a duel. Light vs Dark. Profit vs Loss. $DOGE vs $SHIB."**
+*— Anonymous Architect*
 
-[![Status](https://img.shields.io/badge/Status-Active-red.svg?style=for-the-badge)]()
-[![Theme](https://img.shields.io/badge/Theme-Brutalist-black.svg?style=for-the-badge)]()
-[![Type](https://img.shields.io/badge/Type-Arena-blue.svg?style=for-the-badge)]()
+[![Twitter](https://img.shields.io/badge/X-Follow%20Arena-black?style=for-the-badge&logo=x)](https://x.com/PumpDuel)
+[![Network](https://img.shields.io/badge/Solana-Mainnet-blue?style=for-the-badge&logo=solana)](https://solana.com)
+[![Status](https://img.shields.io/badge/Arena-Open-red?style=for-the-badge)](https://letsgoduel.xyz)
 
 </div>
 
 ---
 
-## ⚡ MANIFESTO
+## 🖋 THE PHILOSOPHY
 
-**PumpDuel is not a trading interface.** It is a digital colosseum where financial action is reclaimed as a public act of allegiance.
+For too long, the ecosystem has been a solitary experience. You launch, you hope, you fail.  
+We believe that **liquidity follows attention**, and attention is a zero-sum game. 
 
-In this space, neutrality is a fiction. We have deleted the option to "observe" from the code. Most markets frame interaction as a private, calculated question: *“Should I buy?”* PumpDuel replaces it with a public, visceral position: **“Which side am I on?”**
+**PumpDuel** was created to weaponize this attention. We don't just launch tokens; we launch conflicts.
 
-> **Two tokens enter. Both grow—the crowd decides how.**
-
----
-
-## 🏟️ THE ARENA (VISUAL ENGINE)
-
-The interface utilizes **Architectural Brutalism** and **Kinetic Typography** to translate raw market data into sensory tension.
-
-* **Dual Vectors:** Tokens are rendered as opposing forces—massive blocks of energy that physically displace each other based on real-time dominance.
-* **Pressure Graphs:** Forget price candles. PumpDuel utilizes "scars" of influence—visceral lines that trace the history of aggression and defense across the background.
-* **Kinetic Response:** Every on-chain event triggers a physical reaction. Typography distorts under pressure; UI elements vibrate during volatility. 
+> *In the Arena, neutrality is a fiction. Every buy is a public declaration of war.*
 
 ---
 
-## 📐 DESIGN CONSTITUTION (NON-NEGOTIABLE)
+## 🛡 THE RULES OF ENGAGEMENT
 
-| Principle | Execution |
+The mechanism of the Duel is governed by three non-negotiable laws:
+
+1. **PUBLIC SUMMONS** Use the `@PumpDuel` (or `@letsgoduel`) trigger on X to challenge any founder or community. Social intent is immediately converted into on-chain reality.
+
+2. **SHARED FATE** Both tokens compete on a **Shared Bonding Curve**. This is a zero-sum liquidity event. Every buy for **Token A** acts as a strike against **Token B**, shifting the center of gravity.
+
+3. **SURVIVAL OF THE PUMPEST** The first token to fill the **"Gunpowder Bar" (85 SOL)** migrates to Raydium. The loser's remains are not wasted—they are used to strengthen the winner's launch.
+
+---
+
+## 🛠 FOR THE ARCHITECTS
+
+This repository contains the high-performance engine required to sync social triggers with on-chain execution.
+
+### `Engine Components`
+* **`X-Parser`**: Real-time social intent detection and natural language processing.
+* **`Duel-Contract`**: Optimized Anchor program for shared liquidity pools and collision logic.
+* **`Arena-UI`**: Low-latency combat dashboard built with **Brutalist Design** and **Kinetic Typography**.
+
+---
+
+## 📐 PERFORMANCE SPECS
+
+| Feature | Specification |
 | :--- | :--- |
-| **Binarity** | Every screen must present exactly two opposing entities. |
-| **Vocabulary** | Lexicon of "profit" is replaced by **Strike, Vector, and Alignment.** |
-| **Reaction** | Visuals must react to every on-chain event in real-time. |
-| **Kineticism** | Stillness is treated as a failure of signal. The arena must breathe. |
+| **Network** | Solana (SVM) |
+| **Bonding Curve** | Proprietary Shared-Impact Model |
+| **Finality** | < 400ms |
+| **Migration** | Automated Raydium Deployment |
 
 ---
 
-## 🧩 LOGIC OF COLLISION
+## 🎩 FINAL WORD
 
-1.  **Forced Allegiance:** When neutrality is removed, action becomes identity. Buying is a gesture of support under pressure.
-2.  **The Nexus:** In the center of the arena lies the point of impact. There is no balance—only the constant shift of who is crushing whom.
-3.  **The Shadow:** PumpDuel does not hide desire—it stages it.
+We are here to add more gunpowder to the Solana engine.  
+The duel is the only honest way to settle a score.
 
----
-
-## 🚫 NEGATIVE SPACE (WHAT WE ARE NOT)
-
-To maintain the integrity of the duel, the following "neutral" elements are strictly excluded:
-* No portfolio trackers or performance dashboards.
-* No traditional candlestick charts or "Buy/Sell" terminology.
-* No passive observation modes.
-
-**If a user can ask: *"Do I want to act at all?"* — the interface has failed.**
-
----
+**Choose your side. Or become the dust beneath their boots.**
 
 <div align="center">
 
-### // CHOOSE. YOUR. ALLEGIANCE.
-### // THE. ARENA. IS. OPEN.
+### // [ENTER THE ARENA](https://x.com/PumpDuel)
+### // [LAUNCH A CONFLICT](https://letsgoduel.xyz)
 
-© 2026 PUMPDUEL. 
-*Anonymity by Design.*
+</div>
 
+---
+<div align="right">
+<i>Anonymity by Design. Victory by Force.</i>
 </div>
